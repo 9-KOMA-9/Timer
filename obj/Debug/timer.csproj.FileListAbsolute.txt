@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\timer\bin\Debug\timer.exe.config
+C:\Users\ucenik\source\repos\timer\bin\Debug\timer.exe
+C:\Users\ucenik\source\repos\timer\bin\Debug\timer.pdb
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.Form1.resources
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.exe
+C:\Users\ucenik\source\repos\timer\obj\Debug\timer.pdb
